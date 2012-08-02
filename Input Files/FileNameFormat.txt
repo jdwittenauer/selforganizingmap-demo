@@ -1,0 +1,4 @@
+Input files for self-organizing map program:
+
+Name_NumberOfAttributes_NumberOfInstances_N (no classifier)
+Name_NumberOfAttributes_NumberOfInstances_C (classifier at the end)
